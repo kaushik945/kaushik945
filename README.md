@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FF9C&height=180&section=header&text=KAUSHIK%20MISHRA&fontSize=48&fontColor=00FF9C&fontAlignY=40&desc=AI%20ML%20and%20Full-Stack%20Developer%20-%20Building%20end-to-end%20AI-powered%20apps&descSize=16&descColor=8B949E&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1929,100:2DD4BF&height=180&section=header&text=KAUSHIK%20MISHRA&fontSize=48&fontColor=2DD4BF&fontAlignY=40&desc=AI%20ML%20and%20Full-Stack%20Developer%20-%20Building%20end-to-end%20AI-powered%20apps&descSize=16&descColor=7FA8C9&descAlignY=62&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -8,32 +8,32 @@
 
 ### `$ whoami --verbose`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+NIT+Raipur+%7C+2nd+Year;AI%2FML+%26+Full-Stack+Developer;Building+Credit+Health+Score+%2B+AI+Resume+Builder;Grinding+DSA+%2B+Competitive+Programming;Open+to+SWE+%2F+AI-ML+%2F+Full-Stack+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+NIT+Raipur+%7C+2nd+Year;AI%2FML+%26+Full-Stack+Developer;Building+Credit+Health+Score+%2B+AI+Resume+Builder;Grinding+DSA+%2B+Competitive+Programming;Open+to+SWE+%2F+AI-ML+%2F+Full-Stack+Internships" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
 
-![Degree](https://img.shields.io/badge/B.Tech-CSE-0D1117?style=flat-square&labelColor=0D1117&color=00FF9C)
-![University](https://img.shields.io/badge/NIT-Raipur-0D1117?style=flat-square&labelColor=0D1117&color=00FF9C)
-![Location](https://img.shields.io/badge/Location-Raipur%2C%20India-0D1117?style=flat-square&labelColor=0D1117&color=00FF9C)
+![Degree](https://img.shields.io/badge/B.Tech-CSE-0A1929?style=flat-square&labelColor=0A1929&color=2DD4BF)
+![University](https://img.shields.io/badge/NIT-Raipur-0A1929?style=flat-square&labelColor=0A1929&color=2DD4BF)
+![Location](https://img.shields.io/badge/Location-Raipur%2C%20India-0A1929?style=flat-square&labelColor=0A1929&color=2DD4BF)
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=0D1117&color=161B22)](https://www.linkedin.com/in/kaushik-mishra-5827a832a/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=0D1117&color=161B22)](mailto:mishrakaushik795@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0D1117&color=161B22)](https://github.com/kaushik945)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF9C&labelColor=0D1117&color=161B22)](https://www.instagram.com/kaushikmishra16/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1929?style=for-the-badge&logo=linkedin&logoColor=2DD4BF&labelColor=0A1929&color=12293F)](https://www.linkedin.com/in/kaushik-mishra-5827a832a/)
+[![Email](https://img.shields.io/badge/Email-0A1929?style=for-the-badge&logo=gmail&logoColor=2DD4BF&labelColor=0A1929&color=12293F)](mailto:mishrakaushik795@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0A1929?style=for-the-badge&logo=github&logoColor=2DD4BF&labelColor=0A1929&color=12293F)](https://github.com/kaushik945)
+[![Instagram](https://img.shields.io/badge/Instagram-0A1929?style=for-the-badge&logo=instagram&logoColor=2DD4BF&labelColor=0A1929&color=12293F)](https://www.instagram.com/kaushikmishra16/)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=kaushik945&color=00FF9C&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/kaushik945?style=flat-square&color=00FF9C&labelColor=0D1117&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/kaushik945?style=flat-square&color=00FF9C&labelColor=0D1117&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=kaushik945&color=2DD4BF&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/kaushik945?style=flat-square&color=2DD4BF&labelColor=0A1929&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/kaushik945?style=flat-square&color=2DD4BF&labelColor=0A1929&label=STARS)
 
 </div>
 
@@ -73,10 +73,10 @@ OPEN_TO   : SWE Intern | AI/ML Intern | Full-Stack Intern | Backend Intern
 
 <div align="center">
 
-![AI/ML](https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=161B22)
-![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=161B22)
-![Full Stack](https://img.shields.io/badge/Full--Stack%20Development-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=161B22)
-![Deployment](https://img.shields.io/badge/End--to--End%20AI%20Deployment-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=161B22)
+![AI/ML](https://img.shields.io/badge/Machine%20Learning-0A1929?style=for-the-badge&logoColor=2DD4BF&labelColor=0A1929&color=12293F)
+![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-0A1929?style=for-the-badge&logoColor=2DD4BF&labelColor=0A1929&color=12293F)
+![Full Stack](https://img.shields.io/badge/Full--Stack%20Development-0A1929?style=for-the-badge&logoColor=2DD4BF&labelColor=0A1929&color=12293F)
+![Deployment](https://img.shields.io/badge/End--to--End%20AI%20Deployment-0A1929?style=for-the-badge&logoColor=2DD4BF&labelColor=0A1929&color=12293F)
 
 </div>
 
@@ -164,7 +164,7 @@ An AI-assisted resume builder that generates professional LaTeX resumes through 
 
 <div align="center">
 
-![Education](https://img.shields.io/badge/B.Tech%20CSE%20%40%20NIT%20Raipur-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=161B22)
+![Education](https://img.shields.io/badge/B.Tech%20CSE%20%40%20NIT%20Raipur-0A1929?style=for-the-badge&logoColor=2DD4BF&labelColor=0A1929&color=12293F)
 
 </div>
 
@@ -174,9 +174,9 @@ An AI-assisted resume builder that generates professional LaTeX resumes through 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF9C&labelColor=0D1117&color=161B22)](https://leetcode.com/u/0xK4u5h1k/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF9C&labelColor=0D1117&color=161B22)](https://codeforces.com/profile/kaushikmishra_)
-[![CodeChef](https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=00FF9C&labelColor=0D1117&color=161B22)](https://www.codechef.com/users/oxk4u5h1k)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0A1929?style=for-the-badge&logo=leetcode&logoColor=2DD4BF&labelColor=0A1929&color=12293F)](https://leetcode.com/u/0xK4u5h1k/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-0A1929?style=for-the-badge&logo=codeforces&logoColor=2DD4BF&labelColor=0A1929&color=12293F)](https://codeforces.com/profile/kaushikmishra_)
+[![CodeChef](https://img.shields.io/badge/CodeChef-0A1929?style=for-the-badge&logo=codechef&logoColor=2DD4BF&labelColor=0A1929&color=12293F)](https://www.codechef.com/users/oxk4u5h1k)
 
 </div>
 
@@ -186,20 +186,10 @@ An AI-assisted resume builder that generates professional LaTeX resumes through 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaushik945&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=8B949E&ring_color=00FF9C" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=kaushik945&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="49%"/>
+<img src="./profile/stats.svg" width="49%"/>
+<img src="./profile/streak.svg" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik945&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=8B949E&langs_count=8" width="49%"/>
-
-</div>
-
-<br>
-
-### `$ ./unlock --trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kaushik945&theme=cyberpunk&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="./profile/top-langs.svg" width="49%"/>
 
 </div>
 
@@ -209,7 +199,7 @@ An AI-assisted resume builder that generates professional LaTeX resumes through 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushik945&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushik945&bg_color=0A1929&color=2DD4BF&line=2DD4BF&point=FFFFFF&area=true&area_color=2DD4BF&hide_border=true" width="100%"/>
 
 </div>
 
@@ -269,10 +259,10 @@ open_to:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=0D1117&color=161B22)](https://www.linkedin.com/in/kaushik-mishra-5827a832a/)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF9C&labelColor=0D1117&color=161B22)](https://www.instagram.com/kaushikmishra16/)
-[![Gmail](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=0D1117&color=161B22)](mailto:mishrakaushik795@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0D1117&color=161B22)](https://github.com/kaushik945)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1929?style=for-the-badge&logo=linkedin&logoColor=2DD4BF&labelColor=0A1929&color=12293F)](https://www.linkedin.com/in/kaushik-mishra-5827a832a/)
+[![Instagram](https://img.shields.io/badge/Instagram-0A1929?style=for-the-badge&logo=instagram&logoColor=2DD4BF&labelColor=0A1929&color=12293F)](https://www.instagram.com/kaushikmishra16/)
+[![Gmail](https://img.shields.io/badge/Email-0A1929?style=for-the-badge&logo=gmail&logoColor=2DD4BF&labelColor=0A1929&color=12293F)](mailto:mishrakaushik795@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0A1929?style=for-the-badge&logo=github&logoColor=2DD4BF&labelColor=0A1929&color=12293F)](https://github.com/kaushik945)
 
 </div>
 
@@ -282,4 +272,4 @@ open_to:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:0A1929&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=0A1929&fontAlignY=75&desc=Reach%20out%20-%20let's%20build%20something&descSize=13&descColor=0A1929&descAlignY=90" width="100%"/>
