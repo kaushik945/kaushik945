@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FF9C&height=180&section=header&text=KAUSHIK%20MISHRA&fontSize=48&fontColor=00FF9C&fontAlignY=40&desc=AI/ML%20%26%20Full-Stack%20Developer%20%7C%20Building%20end-to-end%20AI-powered%20apps&descSize=16&descColor=8B949E&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FF9C&height=180&section=header&text=KAUSHIK%20MISHRA&fontSize=48&fontColor=00FF9C&fontAlignY=40&desc=AI%20ML%20and%20Full-Stack%20Developer%20-%20Building%20end-to-end%20AI-powered%20apps&descSize=16&descColor=8B949E&descAlignY=62&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -187,7 +187,7 @@ An AI-assisted resume builder that generates professional LaTeX resumes through 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=kaushik945&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=8B949E&ring_color=00FF9C" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushik945&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=kaushik945&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik945&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=8B949E&langs_count=8" width="49%"/>
 
@@ -219,11 +219,11 @@ An AI-assisted resume builder that generates professional LaTeX resumes through 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushik945&theme=monokai" width="100%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaushik945&theme=monokai" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaushik945&theme=monokai" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaushik945&theme=monokai" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaushik945&theme=monokai&utcOffset=5.5" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushik945&theme=transparent" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaushik945&theme=transparent" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaushik945&theme=transparent" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaushik945&theme=transparent" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaushik945&theme=transparent&utcOffset=5.5" width="49%"/>
 
 </div>
 
