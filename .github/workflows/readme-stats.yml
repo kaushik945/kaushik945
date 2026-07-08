@@ -1,0 +1,47 @@
+name: update readme stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=kaushik945&show_icons=true&hide_border=true&bg_color=0A1929&title_color=2DD4BF&icon_color=2DD4BF&text_color=7FA8C9
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=kaushik945&layout=compact&hide_border=true&bg_color=0A1929&title_color=2DD4BF&text_color=7FA8C9
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak stats card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=kaushik945&hide_border=true&background=0A1929&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=7FA8C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7FA8C9
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update profile stats" || exit 0
+          git push
